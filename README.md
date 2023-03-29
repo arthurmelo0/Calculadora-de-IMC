@@ -14,3 +14,5 @@ Abaixo disso temos a variável IMC que calculará o resultado da conta dos valor
 pelo toFixed) será exibido. Caso o valor do IMC seja abaixo de 18.5, a interface informará que o IMC está abaixo do peso. Se o resultado for acima
 de 18,5 porém abaixo de 25, isso é considerado um peso normal. Se for acima de 25 e menor que 30, isso é acima do peso. Caso seja maior que 30, isso
 será considerado como Obesidade.
+
+grupo: Francisco Arthur Melo da Silva (15) e Ygor José de Souza Rodrigues (42)
